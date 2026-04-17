@@ -2,7 +2,7 @@
 
 ## 📌 Project Description
 
-The Event Booking System is a web-based application designed to simplify event management and ticket booking processes. It allows users to browse available events, view event details, and book tickets  through a user-friendly interface.
+The Event Booking System is a web-based application designed to simplify event management and ticket booking processes. It allows users to browse available events, view event details, and book tickets through a user-friendly interface.
 
 This system helps reduce manual effort and provides an efficient way to manage event reservations and user data.
 
@@ -16,6 +16,7 @@ This system helps reduce manual effort and provides an efficient way to manage e
 * Ticket Booking System
 * Booking Management
 * Admin Panel for Event Management
+* API Documentation using Swagger
 * User-friendly Interface
 
 ---
@@ -25,6 +26,7 @@ This system helps reduce manual effort and provides an efficient way to manage e
 * **Backend:** Java, Servlets
 * **Frontend:** HTML, CSS, JavaScript
 * **Database:** MySQL
+* **API Documentation:** Swagger
 * **IDE:** Eclipse / Visual Studio Code
 * **Version Control:** Git & GitHub
 
@@ -67,6 +69,19 @@ git clone https://github.com/yourusername/event-booking-system.git
 4. Deploy the project on a server (Tomcat).
 
 5. Run the application and open in browser.
+
+6. Access Swagger UI:
+
+```
+http://localhost:8080/your-project-name/swagger-ui.html
+```
+
+---
+
+## 📄 API Documentation
+
+Swagger is integrated to provide interactive API documentation.
+You can test APIs directly using the Swagger UI interface.
 
 ---
 
